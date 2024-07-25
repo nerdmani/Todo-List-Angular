@@ -48,7 +48,7 @@ Desenvolver uma aplicação de gerenciamento de tarefas (todo list) com as segui
 ### Clone os Repositórios:
 
 ```bash
-git clone https://github.com/ManagerThalles/fullstack-test.git
+git clone https://github.com/ManagerThalles/fullStack-Spring-Angular.git
 cd fullstack-test
 ```
 
