@@ -56,7 +56,6 @@ cd fullStack-Spring-Angular
 
 ```bash
 cd backend
-# Siga as instruções no arquivo requirements.md para detalhes sobre a implementação.
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -65,7 +64,6 @@ chmod +x setup.sh
 
 ```bash
 cd frontend
-# Siga as instruções no arquivo requirements.md para detalhes sobre a implementação.
 ng new [nome projeto]
 ```
 
