@@ -68,8 +68,8 @@ ng new [nome projeto]
 ```
 
 ## Estrutura do Projeto
-- backend: Contém a aplicação Spring Boot com a lógica de negócios e integração com o banco de dados.
-- frontend: Contém a aplicação Angular com a interface do usuário e comunicação com o backend via API REST.
+- backend: Deve Conter a aplicação Spring Boot com a lógica de negócios e integração com o banco de dados.
+- frontend: Deve Conter a aplicação Angular com a interface do usuário e comunicação com o backend via API REST.
 
 ## Envio do Projeto
 O candidato deve enviar o link do repositório (GitHub) contendo o código-fonte do projeto, junto com um arquivo README.md explicando como configurar e executar a aplicação.
