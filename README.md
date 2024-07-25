@@ -49,7 +49,7 @@ Desenvolver uma aplicação de gerenciamento de tarefas (todo list) com as segui
 
 ```bash
 git clone https://github.com/ManagerThalles/fullStack-Spring-Angular.git
-cd fullstack-test
+cd fullStack-Spring-Angular
 ```
 
 ### Backend
