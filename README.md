@@ -66,8 +66,7 @@ chmod +x setup.sh
 ```bash
 cd frontend
 # Siga as instruções no arquivo requirements.md para detalhes sobre a implementação.
-npm install
-npm start
+ng new [nome projeto]
 ```
 
 ## Estrutura do Projeto
